@@ -1,0 +1,63 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+
+}
+.detalhe{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    margin:5px;
+    text-decoration: none;
+    list-style: none;
+}
+.risco{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    margin:5px;
+    text-decoration: none;
+    list-style: none;
+}
+.angora{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    margin:5px;
+    text-decoration: none;
+    list-style: none;
+
+}
+.angora:hover{
+    color: darkgrey;
+}
+.risco:hover{
+    color:red
+    
+}
+.detalhe:hover{
+    color: blue;
+}
+.Novo{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    margin:5px;
+    text-decoration: none;
+    list-style: none;
+}
+.form-control{
+    margin: 5px;
+    width: 100%;
+    color: white;
+
+}
+.col{
+    width: 100%;
+}
+.form-row{
+    width: 100%;
+}
